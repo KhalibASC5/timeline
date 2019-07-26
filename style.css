@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://images.wsj.net/im-76020?width=620&size=1.5); 
+    text-align: center;
+}
+
+.MVP {
+    border: 7px solid yellow;
+}
+
+h1 {
+    font-size:60px;
+    color: yellow;
+    font-family: Helvetica;
+}
+
+p {
+    font-size:20px;
+    color: white;
+}
